@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Entidades
+{
+  public class SolicitanteDTO
+  {
+    public string Nome {get; set;}
+
+    public string CPF { get; set; }
+  }
+}
